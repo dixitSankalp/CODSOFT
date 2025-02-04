@@ -27,5 +27,4 @@ def calculator():
     except ValueError:
         print("Invalid input! Please enter numbers only.")
 
-# Run the calculator
 calculator()
